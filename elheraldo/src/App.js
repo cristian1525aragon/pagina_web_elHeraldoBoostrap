@@ -2,6 +2,7 @@
 import { Fragment } from 'react';
 import './App.css';
 import Header from './componets/Header';
+import Navbar from './componets/Navbar';
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       <header className="App-header">
        <Fragment>
        <Header titulo='EL HERALDO' />
+       <Navbar />
 
        </Fragment>
      
