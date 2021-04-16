@@ -9,7 +9,7 @@ function Noticia() {
       <div class="row justify-content-center">
         <div class="col-md-12 well">
           <div class="col-md-9">
-            <h3 class="tituloParrafo">Extrabajador de Cerrejón sería responsable del incendio de los buses</h3>
+            <h3 class="tituloParrafo">Ex-trabajador de Cerrejón sería responsable del incendio de los buses</h3>
             <p class="texto">El comandante de la Policía de La Guajira, coronel Wharlinton Gualdron, reveló este jueves
               que el autor del incendio de seis buses que transportan a empleados de Cerrejón habría sido un
               extrabajador de esa empresa, al que despidieron en los recientes recortes masivos de personal.
