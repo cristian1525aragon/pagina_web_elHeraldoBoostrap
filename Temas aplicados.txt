@@ -1,9 +1,0 @@
-Temas aplicados
-- bootstrap Page header 
-- bootstrap Nav bar
-- bootstrap dropdowns
-- badge
-- panel
-- Buttons 
-- glyphicon
-- Affix Plugin (Advanced)
